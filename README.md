@@ -30,7 +30,7 @@ Meetspace est une plateforme permettant aux propriétaires de proposer des salle
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Visual Studio Code</b> 
 
 <h2>Program walk-through:</h2>
 
