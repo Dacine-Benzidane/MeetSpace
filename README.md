@@ -22,8 +22,11 @@ Meetspace est une plateforme permettant aux propriétaires de proposer des salle
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>React</b> 
+- <b>Node.js / Express</b>
+- <b>REST API</b>
+- <b>MongoDB</b>
+
 
 <h2>Environments Used </h2>
 
