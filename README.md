@@ -3,18 +3,17 @@
  ### [YouTube Demonstration](https://youtu.be/0_KZLExnjZ0)
 
 <h2>Description</h2>
-Meetspace est une plateforme permettant aux propriétaires de proposer des salles de réunion ou d'événements à la location et aux clients de réserver ces salles. La plateforme comporte un système de gestion des utilisateurs avec différents rôles et propose une interface intuitive pour le frontend et une API REST pour le backend.
+Meetspace is a platform that allows owners to offer meeting or event rooms for rent and enables clients to book these rooms. The platform includes a user management system with different roles and provides an intuitive interface for the frontend as well as a REST API for the backend.
 
+Meetspace is a platform where:
 
-   Meetspace est une plateforme où :
+1. Visitor: Can browse available rooms without creating an account.
 
-1. un Visiteur : Peut consulter les salles disponibles sans créer de compte.
+2.Client: Can book rooms after creating an account.
 
-2. un Client : Peut réserver des salles après avoir créé un compte.
+3.Owner: Can add, modify, or delete rooms offered for rent and view client reviews.
 
-3. un Propriétaire : Peut ajouter, modifier ou supprimer des salles proposées à la location et consulter les avis des clients.
-
-4. un Administrateur : Peut gérer les utilisateurs (clients et propriétaires) et les salles proposées.
+4. Administrator: Can manage users (clients and owners) and the rooms offered.
  
 
 <br />
