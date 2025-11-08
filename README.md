@@ -5,10 +5,15 @@
 <h2>Description</h2>
 Meetspace est une plateforme permettant aux propriétaires de proposer des salles de réunion ou d'événements à la location et aux clients de réserver ces salles. La plateforme comporte un système de gestion des utilisateurs avec différents rôles et propose une interface intuitive pour le frontend et une API REST pour le backend.
 Meetspace est une plateforme où :
-1. un Visiteur : Peut consulter les salles disponibles sans créer de compte. 
-2. un Client : Peut réserver des salles après avoir créé un compte. 
+
+1. un Visiteur : Peut consulter les salles disponibles sans créer de compte.
+
+2. un Client : Peut réserver des salles après avoir créé un compte.
+
 3. un Propriétaire : Peut ajouter, modifier ou supprimer des salles proposées à la location et consulter les avis des clients.
- 4. un Administrateur : Peut gérer les utilisateurs (clients et propriétaires) et les salles proposées.
+
+4. un Administrateur : Peut gérer les utilisateurs (clients et propriétaires) et les salles proposées.
+ 
 
 <br />
 
