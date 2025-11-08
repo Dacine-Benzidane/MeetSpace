@@ -31,7 +31,7 @@ Meetspace is a platform where:
 
 - <b>Visual Studio Code</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Platform Overview:</h2>
 
 <p align="center">
 Launch the utility: <br/>
