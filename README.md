@@ -9,12 +9,12 @@ Meetspace is a platform where:
 
 1. Visitor: Can browse available rooms without creating an account.
 
-2.Client: Can book rooms after creating an account.
+2. Client: Can book rooms after creating an account.
 
-3.Owner: Can add, modify, or delete rooms offered for rent and view client reviews.
+3. Owner: Can add, modify, or delete rooms offered for rent and view client reviews.
 
-4. Administrator: Can manage users (clients and owners) and the rooms offered.
- 
+4.  Administrator: Can manage users (clients and owners) and the rooms offered.
+
 
 <br />
 
