@@ -150,8 +150,9 @@ Meetspace is a platform where:
 <!-- 19 -->
 <p align="center">
   <b>19 — Activer / Désactiver un utilisateur (Espace Admin)</b><br/>
-  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/19_Activer_desactiver_un_utilisateur_(Espace_Admin).jpg" width="80%" alt="Activer/Désactiver utilisateur"/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/19_Activer_desactiver_un_utilisateur_(Espace_Admin.jpg" width="80%" alt="Activer/Désactiver utilisateur"/>
 </p>
+
 
 <!-- 20 -->
 <p align="center">
