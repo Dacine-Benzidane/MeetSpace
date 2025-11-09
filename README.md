@@ -110,3 +110,64 @@ Meetspace is a platform where:
   <b>12 — Ajout d'une salle (Espace propriétaire)</b><br/>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/12_Ajout%20d'%20une%20salle%20(Espace%20propriétaire%20).jpg" width="80%" alt="Ajout d'une salle"/>
 </p>
+
+<!-- 13 -->
+<p align="center">
+  <b>13 — Statistique (espace propriétaire)</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/13_Statistique%20(espace%20propriétaire%20).jpg" width="80%" alt="Statistique"/>
+</p>
+
+<!-- 14 -->
+<p align="center">
+  <b>14 — Modifier / Supprimer une salle (Espace Propriétaire)</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/14_Modifier%20_Supprimer%20Une%20salle%20(Espace%20Propriétaire%20).jpg" width="80%" alt="Modifier/Supprimer une salle"/>
+</p>
+
+<!-- 15 -->
+<p align="center">
+  <b>15 — Modifier une salle (Espace Propriétaire)</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/15_Modifier%20Une%20salle%20(Espace%20Propriétaire%20).jpg" width="80%" alt="Modifier une salle"/>
+</p>
+
+<!-- 16 -->
+<p align="center">
+  <b>16 — Voir Avis et Commentaires</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/16_Voir%20Avis%20et%20Commentaires.jpg" width="80%" alt="Voir avis et commentaires"/>
+</p>
+
+<!-- 17 -->
+<p align="center">
+  <b>17 — Voir la liste des salles réservées</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/17_Voir%20la%20listes%20des%20salles%20réservées.jpg" width="80%" alt="Salles réservées"/>
+</p>
+
+<!-- 18 -->
+<p align="center">
+  <b>18 — Espace Admin</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/18_Espace%20Admin.jpg" width="80%" alt="Espace Admin"/>
+</p>
+
+<!-- 19 -->
+<p align="center">
+  <b>19 — Activer / Désactiver un utilisateur (Espace Admin)</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/19_ActiverDésactiver%20Un%20Utilisateur%20(Espace%20Admin%20).jpg" width="80%" alt="Activer/Désactiver utilisateur"/>
+</p>
+
+<!-- 20 -->
+<p align="center">
+  <b>20 — Supprimer une salle (Espace Admin)</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/20_Supprimer%20une%20salle%20(Espace%20Admin).jpg" width="80%" alt="Supprimer une salle"/>
+</p>
+
+<!-- 21 -->
+<p align="center">
+  <b>21 — Supprimer un commentaire (Espace Admin)</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/21_Supprimer%20un%20commentaire%20(Espace%20Admin).jpg" width="80%" alt="Supprimer commentaire"/>
+</p>
+
+<!-- 22 -->
+<p align="center">
+  <b>22 — Formulaire d'inscription (client / propriétaire)</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/22_Formulaire%20d'inscription%20(client%20_propriétaire%20).jpg" width="80%" alt="Formulaire d'inscription"/>
+</p>
+
