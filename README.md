@@ -33,98 +33,80 @@ Meetspace is a platform where:
 
 <h2>Platform Overview:</h2>
 
+<!-- 1 -->
 <p align="center">
-
-Page d'accueil : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/1_Page%20Accueil.jpg" width="80%" alt="Page Accueil"/>
-<br /><br />
-
-Page d'accueil (suite) : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/2_Page%20Accueil.jpg" width="80%" alt="Page Accueil 2"/>
-<br /><br />
-
-Filtrage selon le nom : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/3_Filtrage%20de%20salle%20selon%20le%20Nom.jpg" width="80%" alt="Filtrage par nom"/>
-<br /><br />
-
-Filtrage selon la capacité : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/4_Filtrage%20de%20salle%20selon%20la%20capacité.jpg" width="80%" alt="Filtrage par capacité"/>
-<br /><br />
-
-Filtrage selon la localisation : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/5_Filtrage%20de%20salle%20selon%20la%20localisation.jpg" width="80%" alt="Filtrage par localisation"/>
-<br /><br />
-
-Visualiser sur Google Maps : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/6_Visualiser%20sur%20google%20map.jpg" width="80%" alt="Visualiser sur Google Map"/>
-<br /><br />
-
-Formulaire de connexion : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/7_Formulaire%20de%20Connexion.jpg" width="80%" alt="Formulaire de connexion"/>
-<br /><br />
-
-Réserver une salle (espace client) : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/8_Réserver%20une%20salle%20(espace%20client).jpg" width="80%" alt="Réservation"/>
-<br /><br />
-
-Espace client (1) : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/9_1_Espace%20client.jpg" width="80%" alt="Espace client 1"/>
-<br /><br />
-
-Espace client (2) : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/9_2_Espace%20client.jpg" width="80%" alt="Espace client 2"/>
-<br /><br />
-
-Historique des réservations (espace client) : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/10_Historique%20des%20réservations%20(espace%20client).jpg" width="80%" alt="Historique des réservations"/>
-<br /><br />
-
-Laisser un avis (espace client) : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/11_Laisser%20un%20Avis%20(Espace%20client).jpg" width="80%" alt="Laisser un avis"/>
-<br /><br />
-
-Ajout d'une salle (espace propriétaire) : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/12_Ajout%20d'%20une%20salle%20(Espace%20propriétaire%20).jpg" width="80%" alt="Ajout d'une salle"/>
-<br /><br />
-
-Statistiques (espace propriétaire) : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/13_Statistique%20(espace%20propriétaire%20).jpg" width="80%" alt="Statistiques"/>
-<br /><br />
-
-Modifier / Supprimer une salle (propriétaire) : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/14_Modifier%20_Supprimer%20Une%20salle%20(Espace%20Propriétaire%20).jpg" width="80%" alt="Modifier / Supprimer salle"/>
-<br /><br />
-
-Modifier une salle : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/15_Modifier%20Une%20salle%20(Espace%20Propriétaire%20).jpg" width="80%" alt="Modifier une salle"/>
-<br /><br />
-
-Voir avis et commentaires : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/16_Voir%20Avis%20et%20Commentaires.jpg" width="80%" alt="Avis et commentaires"/>
-<br /><br />
-
-Liste des salles réservées : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/17_Voir%20la%20listes%20des%20salles%20réservées.jpg" width="80%" alt="Salles réservées"/>
-<br /><br />
-
-Espace administrateur : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/18_Espace%20Admin.jpg" width="80%" alt="Espace Admin"/>
-<br /><br />
-
-Activer / Désactiver un utilisateur (Admin) : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/19_ActiverDésactiver%20Un%20Utilisateur%20(Espace%20Admin%20)%20.jpg" width="80%" alt="Activer / Désactiver utilisateur"/>
-<br /><br />
-
-Supprimer une salle (Admin) : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/20_Supprimer%20une%20salle%20(Espace%20Admin).jpg" width="80%" alt="Supprimer salle"/>
-<br /><br />
-
-Supprimer un commentaire (Admin) : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/21_Supprimer%20un%20commentaire%20(Espace%20Admin).jpg" width="80%" alt="Supprimer commentaire"/>
-<br /><br />
-
-Formulaire d'inscription (client / propriétaire) : <br/>
-<img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/22_Formulaire%20d'inscription%20(client%20_propriétaire%20).jpg" width="80%" alt="Formulaire d'inscription"/>
-
+  <b>1 — Page Accueil</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/1_Page%20Accueil.jpg" width="80%" alt="Page Accueil"/>
 </p>
 
+<!-- 2 -->
+<p align="center">
+  <b>2 — Page Accueil</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/2_Page%20Accueil.jpg" width="80%" alt="Page Accueil"/>
+</p>
+
+<!-- 3 -->
+<p align="center">
+  <b>3 — Filtrage de salle selon le Nom</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/3_Filtrage%20de%20salle%20selon%20le%20Nom.jpg" width="80%" alt="Filtrage par nom"/>
+</p>
+
+<!-- 4 -->
+<p align="center">
+  <b>4 — Filtrage de salle selon la capacité</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/4_Filtrage%20de%20salle%20selon%20la%20capacité.jpg" width="80%" alt="Filtrage par capacité"/>
+</p>
+
+<!-- 5 -->
+<p align="center">
+  <b>5 — Filtrage de salle selon la localisation</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/5_Filtrage%20de%20salle%20selon%20la%20localisation.jpg" width="80%" alt="Filtrage par localisation"/>
+</p>
+
+<!-- 6 -->
+<p align="center">
+  <b>6 — Visualiser sur Google Map</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/6_Visualiser%20sur%20google%20map.jpg" width="80%" alt="Google Map"/>
+</p>
+
+<!-- 7 -->
+<p align="center">
+  <b>7 — Formulaire de Connexion</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/7_Formulaire%20de%20Connexion.jpg" width="80%" alt="Connexion"/>
+</p>
+
+<!-- 8 -->
+<p align="center">
+  <b>8 — Réserver une salle (espace client)</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/8_Réserver%20une%20salle%20(espace%20client).jpg" width="80%" alt="Réserver une salle"/>
+</p>
+
+<!-- 9_1 -->
+<p align="center">
+  <b>9_1 — Espace client</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/9_1_Espace%20client.jpg" width="80%" alt="Espace client"/>
+</p>
+
+<!-- 9_2 -->
+<p align="center">
+  <b>9_2 — Espace client</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/9_2_Espace%20client.jpg" width="80%" alt="Espace client"/>
+</p>
+
+<!-- 10 -->
+<p align="center">
+  <b>10 — Historique des réservations (espace client)</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/10_Historique%20des%20réservations%20(espace%20client).jpg" width="80%" alt="Historique des réservations"/>
+</p>
+
+<!-- 11 -->
+<p align="center">
+  <b>11 — Laisser un Avis (Espace client)</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/11_Laisser%20un%20Avis%20(Espace%20client).jpg" width="80%" alt="Laisser un avis"/>
+</p>
+
+<!-- 12 -->
+<p align="center">
+  <b>12 — Ajout d'une salle (Espace propriétaire)</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/12_Ajout%20d'%20une%20salle%20(Espace%20propriétaire%20).jpg" width="80%" alt="Ajout d'une salle"/>
+</p>
