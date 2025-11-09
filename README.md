@@ -35,37 +35,36 @@ Meetspace is a platform where:
 
 <!-- 1 -->
 <p align="center">
-  <b>1 — Page Accueil</b><br/>
+  <b>1 — Page d'accueil(Visiteur)</b><br/>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/1_Page%20Accueil.jpg" width="80%" alt="Page Accueil"/>
 </p>
 
 <!-- 2 -->
 <p align="center">
-  <b>2 — Page Accueil</b><br/>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/2_Page%20Accueil.jpg" width="80%" alt="Page Accueil"/>
 </p>
 
 <!-- 3 -->
 <p align="center">
-  <b>3 — Filtrage de salle selon le Nom</b><br/>
+  <b>3 — Filtrage de salles selon le Nom</b><br/>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/3_Filtrage%20de%20salle%20selon%20le%20Nom.jpg" width="80%" alt="Filtrage par nom"/>
 </p>
 
 <!-- 4 -->
 <p align="center">
-  <b>4 — Filtrage de salle selon la capacité</b><br/>
+  <b>4 — Filtrage de salles selon la capacité</b><br/>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/4_Filtrage%20de%20salle%20selon%20la%20capacité.jpg" width="80%" alt="Filtrage par capacité"/>
 </p>
 
 <!-- 5 -->
 <p align="center">
-  <b>5 — Filtrage de salle selon la localisation</b><br/>
+  <b>5 — Filtrage de salles selon la localisation</b><br/>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/5_Filtrage%20de%20salle%20selon%20la%20localisation.jpg" width="80%" alt="Filtrage par localisation"/>
 </p>
 
 <!-- 6 -->
 <p align="center">
-  <b>6 — Visualiser sur Google Map</b><br/>
+  <b>6 — Visualisation d'une salle sur Google Map</b><br/>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/6_Visualiser%20sur%20google%20map.jpg" width="80%" alt="Google Map"/>
 </p>
 
@@ -75,11 +74,7 @@ Meetspace is a platform where:
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/7_Formulaire%20de%20Connexion.jpg" width="80%" alt="Connexion"/>
 </p>
 
-<!-- 8 -->
-<p align="center">
-  <b>8 — Réserver une salle (espace client)</b><br/>
-  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/8_Réserver%20une%20salle%20(espace%20client).jpg" width="80%" alt="Réserver une salle"/>
-</p>
+
 
 <!-- 9_1 -->
 <p align="center">
@@ -89,8 +84,13 @@ Meetspace is a platform where:
 
 <!-- 9_2 -->
 <p align="center">
-  <b>9_2 — Espace client</b><br/>
+
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/9_2_Espace%20client.jpg" width="80%" alt="Espace client"/>
+</p>
+<!-- 8 -->
+<p align="center">
+  <b>8 — Réservation d'une salle (Espace client)</b><br/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/8_Réserver%20une%20salle%20(espace%20client).jpg" width="80%" alt="Réserver une salle"/>
 </p>
 
 <!-- 10 -->
@@ -113,7 +113,7 @@ Meetspace is a platform where:
 
 <!-- 13 -->
 <p align="center">
-  <b>13 — Statistique (espace propriétaire)</b><br/>
+  <b>13 — Statistiques (Espace propriétaire)</b><br/>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/13_Statistique%20(espace%20propriétaire%20).jpg" width="80%" alt="Statistique"/>
 </p>
 
@@ -131,7 +131,7 @@ Meetspace is a platform where:
 
 <!-- 16 -->
 <p align="center">
-  <b>16 — Voir Avis et Commentaires</b><br/>
+  <b>16 — Voir Avis et Commentaires (Espace Propriétaire)</b><br/>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/16_Voir%20Avis%20et%20Commentaires.jpg" width="80%" alt="Voir avis et commentaires"/>
 </p>
 
@@ -155,13 +155,13 @@ Meetspace is a platform where:
 
 <!-- 20 -->
 <p align="center">
-  <b>20 — Supprimer une salle (Espace Admin)</b><br/>
+  <b>20 — Suppression d’une salle (Espace Admin)</b><br/>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/20_Supprimer%20une%20salle%20(Espace%20Admin).jpg" width="80%" alt="Supprimer une salle"/>
 </p>
 
 <!-- 21 -->
 <p align="center">
-  <b>21 — Supprimer un commentaire (Espace Admin)</b><br/>
+  <b>21 — Suppression d'un commentaire (Espace Admin)</b><br/>
   <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/21_Supprimer%20un%20commentaire%20(Espace%20Admin).jpg" width="80%" alt="Supprimer commentaire"/>
 </p>
 
