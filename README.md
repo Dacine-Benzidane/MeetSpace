@@ -126,7 +126,7 @@ Meetspace is a platform where:
 <!-- 15 -->
 <p align="center">
   <b>15 — Modifier une salle (Espace Propriétaire)</b><br/>
-  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/15_Modifier%20Une%20salle%20(Espace%20Propriétaire%20).jpg" width="80%" alt="Modifier une salle"/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/15_Modifier_une_salle_(Espace_Proprietaire).jpg" width="80%" alt="Modifier une salle"/>
 </p>
 
 <!-- 16 -->
@@ -150,7 +150,7 @@ Meetspace is a platform where:
 <!-- 19 -->
 <p align="center">
   <b>19 — Activer / Désactiver un utilisateur (Espace Admin)</b><br/>
-  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/19_ActiverDésactiver%20Un%20Utilisateur%20(Espace%20Admin%20).jpg" width="80%" alt="Activer/Désactiver utilisateur"/>
+  <img src="https://raw.githubusercontent.com/Dacine-Benzidane/MeetSpace/main/MeetSpace%20overview/19_Activer_desactiver_un_utilisateur_(Espace_Admin).jpg" width="80%" alt="Activer/Désactiver utilisateur"/>
 </p>
 
 <!-- 20 -->
